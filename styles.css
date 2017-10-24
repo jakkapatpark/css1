@@ -1,0 +1,19 @@
+p.ppl {font-size: 24pt;
+  color: #cc0000;
+  text-decoration:underline;
+}
+h4 {
+  font-size: 25pt;
+  color: #990000;
+  text-transform: lowercase;
+}
+p a.ppl{
+  font-size: 26pt;
+  color:black;
+  text-decoration: none;
+}
+p a.ppl:hover{
+  color: #990000;
+  font-size: 27pt;
+
+}
